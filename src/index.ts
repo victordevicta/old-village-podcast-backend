@@ -1,1 +1,3 @@
-const message = 'O FUTURO É PICA!';
+const satana = 'satanas';
+
+console.log(satana);
