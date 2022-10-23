@@ -1,11 +1,10 @@
-import blablabla from '@/bla/bla';
+import * as express from 'express';
+import { Request, Response } from 'express';
 
-class Demon {
-  invoke() {
-    return 'SATANÁS!';
-  }
-}
+const app = express();
 
-console.log(blablabla);
+app.get('/', (req: Request, res: Response) => {
+  res.send('Hello Satan!');
+});
 
-export default Demon;
+app.listen(3000, () => console.log('listening on port 3000!'));
