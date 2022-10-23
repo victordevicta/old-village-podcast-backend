@@ -1,3 +1,1 @@
-const satana = 'satanas';
-
-console.log(satana);
+const satana = 'satanas 666';
