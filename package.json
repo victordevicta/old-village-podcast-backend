@@ -4,6 +4,7 @@
   "description": "Serviço de backend do Blog para postagem dos episódios do Old Village Podcast.",
   "main": "index.js",
   "scripts": {
+    "build": "tsc",
     "start:dev": "nodemon src/index.ts"
   },
   "author": "Victor de Victa",

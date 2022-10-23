@@ -1,1 +1,7 @@
-const satana = 'satanas 666';
+class Demon {
+  invoke() {
+    return 'SATANÁS!';
+  }
+}
+
+export default Demon;
