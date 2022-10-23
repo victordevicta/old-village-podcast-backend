@@ -1,0 +1,15 @@
+{
+  "name": "old-village-podcast-backend",
+  "version": "1.0.0",
+  "description": "Serviço de backend do Blog para postagem dos episódios do Old Village Podcast.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Victor de Victa",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.11.4",
+    "typescript": "^4.8.4"
+  }
+}
