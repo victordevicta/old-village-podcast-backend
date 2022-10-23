@@ -1,1 +1,1 @@
-console.log('O FUTURO É PICA!!!')
+const message = 'O FUTURO É PICA!';
